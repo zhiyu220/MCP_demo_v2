@@ -1,0 +1,9 @@
+langchain
+langchain-community
+fastmcp
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openai==0.28
+geopy
+#timezonefinder
